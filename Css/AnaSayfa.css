@@ -1,0 +1,187 @@
+body {
+    background-color: #FFFFFF;
+    background-image: url(https://web.archive.org/web/19981202230410im_/http://www.google.com/alpha.jpg);
+}
+
+.Container {
+    /* background-color: green; */
+    width: 90%;
+    margin: auto;
+}
+
+#Header {
+    /* background-color: blue; */
+    height: 110px;
+    width: 350px;
+    margin: 0 auto 0 auto; /* İki yandan ortaladı*/
+    padding: 0 5px 0 5px;
+}
+
+#Content {
+    background-color: rgb(238, 238, 238);
+    height: 70px;
+}
+
+#Footer {
+    /* background-color: yellow; */
+    height: 74.8px;
+}
+
+#Content-Box-1 {
+    /* background-color: chocolate; */
+    height: 18px;
+    width: 195px;
+    font-weight: normal;
+    font-style: normal;
+    margin: 3px auto 0 auto;
+}
+
+#Content-h1 {
+    font-weight: normal;
+    font-style: normal;
+    font-size: medium;
+    color: -internal-quirk-inherit;
+    white-space: normal;
+    font-variant: normal;
+    padding-top: 2px;
+    height: 13px;
+}
+
+#Content-Box-2 {
+    /* background-color: burlywood; */
+    height: 25px;
+    width: 305px;
+    margin: 3px auto 0 auto;
+    padding: 0 5px 0 5px;
+}
+
+#Content-Input-1 {
+    border-style: inset;
+    border-image: initial;
+    background-color: field;
+    box-sizing: border-box;
+}
+
+#Content-Box-3 {
+    /* background-color: cadetblue; */
+    width: 290px;
+    height: 40px;
+    margin: 0 auto 0 auto;
+    padding: 0 5px;
+}
+
+#Content-Button-1 {
+    width: 120px;
+    height: 20px;
+    text-align: center!important;
+    line-height: normal;
+    float: left;
+    margin-left: 10px;
+    padding-left: 10px;
+    /* background-color: darkblue; */
+}
+
+#Content-Button-2 {
+    width: 125px;
+    height: 20px;
+    text-align: center!important;
+    line-height: normal;
+    float: left;
+    margin-right: 5px;
+    padding-right: 5px;
+    /* background-color: black; */
+}
+
+.Button {
+    text-decoration: none;
+    background-color: #e7e7e7;
+    padding: 1px 6px;
+    font-weight: normal;
+    font-style: normal;
+    color: black;
+    border-width: 2px;
+    border-style: outset;
+    border-color: gray;
+    cursor: default;
+}
+
+.Link {
+    text-decoration: underline;
+    cursor: pointer;
+    font-weight: lighter;
+}
+
+#Footer-Box-1 {
+    height: 54.8px;
+    width: 37%;
+    float: left;
+    background-color: #7EE5DA;
+    line-height: 0.5cm;
+    text-align: center;
+    padding: 10px 0;
+}
+
+#Footer-Box-2 {
+    height: 64.8px;
+    width: 20%;
+    float: left;
+    background-color: #70CCC2;
+    line-height: 0.35cm;
+    text-align: center;
+    padding: 5px 0;
+}
+
+#Footer-Box-3 {
+    height: 74.8px;
+    width: 43%;
+    float: left;
+    background-color: #62B3AA;
+    line-height: 0.05cm;
+    text-align: center;
+}
+
+#Subscribe-Box-4 {
+    width: 170px;
+    height: 20px;
+    margin: auto;
+    /* background-color: #fff; */
+}
+
+#Subscribe-Button-1 {
+    float: left;
+    margin-top: 0px;
+    width: 100px;
+    height: 20px;
+    text-align: center!important;
+    /* background-color: black; */
+    line-height: normal;
+}
+
+#Archive-Link-1 {
+    float: left;
+    margin-top: 0px;
+    width: 70px;
+    font-size: small;
+    height: 10px;
+    /* background-color: pink; */
+    padding-top: 10px;
+}
+
+#Subscribe-Box-1 {
+    /* background-color: red; */
+    width: 100px;
+    margin: 2px auto 0 auto;
+    height: 10px;
+    font-size: small;
+    padding: 5px 0 0 0;
+    
+}
+
+#Subscribe-Box-2 {
+    /* background-color: red; */
+    width: 200px;
+    margin: 0 auto;
+    height: 10px;
+    font-size: small;
+    padding: 5px 0 0 0;
+}
